@@ -1,3 +1,6 @@
+
+[pulse aquí para ver perfil](https://github.com/AdelaGM) :brain:
+
 # Escriba aquí su Informe
 
 Escriba aquí el informe de su práctica.
